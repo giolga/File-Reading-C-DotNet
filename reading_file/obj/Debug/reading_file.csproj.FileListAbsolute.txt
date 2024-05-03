@@ -1,0 +1,15 @@
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\bin\Debug\reading_file.exe.config
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\bin\Debug\reading_file.exe
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\bin\Debug\reading_file.pdb
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\obj\Debug\reading_file.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\obj\Debug\reading_file.csproj.SuggestedBindingRedirects.cache
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\obj\Debug\reading_file.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\obj\Debug\reading_file.exe
+C:\Users\GioLGA\Desktop\Csharp\reading_file\reading_file\obj\Debug\reading_file.pdb
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\obj\Debug\reading_file.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\obj\Debug\reading_file.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\obj\Debug\reading_file.exe
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\obj\Debug\reading_file.pdb
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\bin\Debug\reading_file.exe.config
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\bin\Debug\reading_file.exe
+C:\Users\GioLGA\Desktop\MyProjects\reading_file\reading_file\bin\Debug\reading_file.pdb
